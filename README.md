@@ -9,6 +9,8 @@
   <br />
   <a href="https://go.dev/" target="_blank"><img alt="Go" src="https://img.shields.io/badge/go-00ADD8?logo=go&logoColor=white"></a>
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">
+  <a href="https://www.rust-lang.org/" target="_blank"><img alt="Rust" src="https://img.shields.io/badge/rust-000000?logo=rust&logoColor=white"></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/typescript-3178C6?logo=typescript&logoColor=white"></a>
 </a>
 </p>
 
