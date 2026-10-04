@@ -11,3 +11,12 @@
   <a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-3776AB?logo=python&logoColor=white">
 </a>
 </p>
+
+<blockquote>
+  <ol>
+    <li>A robot may not injure a human being or, through inaction, allow a human being to come to harm.</li>
+    <li>A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.</li>
+    <li>A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.</li>
+  </ol>
+  <p align="right">&mdash; Isaac Asimov, "Runaround", 1942</p>
+</blockquote>
